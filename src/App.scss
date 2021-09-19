@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #43bd7a;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #D7CAAA;
 	overflow: hidden;
 }
 
@@ -353,7 +353,8 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-image: url("./images1/code-background/negative-space.jpg");
+	background-size: 90%;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +390,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #43bd7a;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +415,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background:#43bd7a;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
